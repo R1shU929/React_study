@@ -5,6 +5,7 @@ import { useState } from "react";
 // 2. 생년월일
 // 3. 국적
 // 4. 자기소개
+// 예이
 const Register = () => {
   const [name, setName] = useState("이름"); // 초기값
   const [birth, setBirth] = useState("");
