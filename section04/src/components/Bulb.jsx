@@ -19,3 +19,4 @@ const Bulb = () => {
     </div>
   );
 };
+export default Bulb;
